@@ -1,6 +1,7 @@
 # shopwithkoa
 
-> A Vue.js project
+> A Vue.js project with Koa
+
 
 ## Build Setup
 
